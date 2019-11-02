@@ -2,7 +2,190 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ab46944-860b-4311-be1a-11d22f734806" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/000786/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/000951/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/000970/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/000970/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/000971/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/000971/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/000973/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/000973/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/000982/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002064/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002080/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002103/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002105/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002115/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002115/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002120/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002127/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002142/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002145/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002161/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002161/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002168/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002168/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002178/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002205/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002458/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002464/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002464/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002475/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002484/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002508/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002530/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002530/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002531/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002536/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002537/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002537/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002543/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002547/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002547/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002552/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002552/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002560/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002562/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002857/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002861/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002863/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002864/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002869/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002869/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002876/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002892/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002897/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002903/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002903/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002918/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002928/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002943/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/002947/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300056/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300071/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300071/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300072/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300074/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300077/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300077/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300085/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300085/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300099/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300116/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300116/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300126/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300127/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300131/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300153/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300205/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300319/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300395/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300398/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300460/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300461/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300461/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300471/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300475/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300475/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300483/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300486/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300496/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300526/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300526/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300537/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300541/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300552/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300557/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300558/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300686/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/300748/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600007/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600036/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600055/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600210/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600272/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600272/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600305/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600366/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600383/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600390/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600398/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600405/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600418/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600418/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600419/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600421/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600421/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600422/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600423/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600423/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600448/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600448/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600449/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600463/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600585/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600602/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600655/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600746/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600748/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600763/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600781/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600801/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600809/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600812/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600814/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600826/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600866/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600895/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600895/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600908/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/600908/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/601021/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/601021/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/601098/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/601601/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/601601/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/601636/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/601636/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/601828/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/601838/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/601996/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/601997/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603069/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603079/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603081/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603139/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603139/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603178/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603178/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603183/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603183/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603186/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603208/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603389/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603421/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603579/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603602/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603602/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603615/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603650/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603650/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603657/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603657/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603703/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603708/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603776/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603776/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603815/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603890/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603955/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603960/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603960/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603985/business_scope.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603985/industry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataScrapy/Data/603986/industry.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScrapy/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataScrapy/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +314,7 @@
       <workItem from="1572360705283" duration="1917000" />
       <workItem from="1572442486530" duration="1664000" />
       <workItem from="1572676699725" duration="388000" />
-      <workItem from="1572677942525" duration="5297000" />
+      <workItem from="1572677942525" duration="5840000" />
     </task>
     <task id="LOCAL-00001" summary="vue 3.0 create project.">
       <created>1571567901768</created>
@@ -161,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572684079166</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="数据缓存">
+      <created>1572684219854</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572684219854</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +379,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Anbels$91_spider.coverage" NAME="91_spider Coverage Results" MODIFIED="1572363757285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/91_porn_spider-master" />
-    <SUITE FILE_PATH="coverage/Anbels$main.coverage" NAME="main Coverage Results" MODIFIED="1572682316865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScrapy" />
+    <SUITE FILE_PATH="coverage/Anbels$main.coverage" NAME="main Coverage Results" MODIFIED="1572684603354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataScrapy" />
   </component>
 </project>

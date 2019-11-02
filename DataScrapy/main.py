@@ -33,7 +33,7 @@ def get_stock_code(path):
 
 def get_stock_industry(path, stock):
     if os.path.exists(f'{path}/{stock}'):
-        return
+        return {}
     data = json.loads(requests.get(
         f"http://f10.eastmoney.com/CoreConception/CoreConceptionAjax?code=SH{stock}").text)
     if 'status' in data and data['status'] == -1:
@@ -44,15 +44,8 @@ def get_stock_industry(path, stock):
         行业 = list(filter(lambda x: '昨日' not in x and '今日' not in x, data['hxtc'][0]['ydnr'].split(' ')))
         经营范围 = list(map(lambda x: x[:x.find('(')] if '(' in x else x, data['hxtc'][1]['ydnr'].replace('、', '').split(';')))
     except (IndexError, ):
-        return
-    os.mkdir(f'{path}/{stock}')
-    file = open(f'{path}/{stock}/industry.json', 'w')
-    json.dump(行业, file)
-    file.close()
-    file = open(f'{path}/{stock}/business_scope.json', 'w')
-    json.dump(经营范围, file)
-    file.close()
-    print(f'加载{stock}的行业数据: ', 行业, 经营范围)
+        return {}
+    return {'industry': 行业, 'scope': 经营范围}
 
 
 def get_stock_report(path, stock):
@@ -65,9 +58,15 @@ def get_stock_quote(path, stock):
 
 def get_all_stock_base_info(path, file):
     stocks = json.load(file)
+    industry = {}
     for code in stocks:
-        get_stock_industry(path, code)
+        data = get_stock_industry(path, code)
+        if data:
+            industry[code] = data
         time.sleep(0.1)
+    file = open(f'{path}/industry.json', 'w')
+    json.dump(industry, file)
+    file.close()
 
 
 if __name__ == '__main__':
